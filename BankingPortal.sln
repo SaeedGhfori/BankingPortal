@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Endpoint", "Web.Endpoint\Web.Endpoint.csproj", "{EB41D467-9FCC-469C-B99E-9B2DAEA15BD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingPortalCore", "BankingPortalCore\BankingPortalCore.csproj", "{BEBBFC76-B9BC-4E23-BA0D-A6AC1AB45839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB41D467-9FCC-469C-B99E-9B2DAEA15BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB41D467-9FCC-469C-B99E-9B2DAEA15BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB41D467-9FCC-469C-B99E-9B2DAEA15BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB41D467-9FCC-469C-B99E-9B2DAEA15BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBBFC76-B9BC-4E23-BA0D-A6AC1AB45839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBBFC76-B9BC-4E23-BA0D-A6AC1AB45839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBBFC76-B9BC-4E23-BA0D-A6AC1AB45839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBBFC76-B9BC-4E23-BA0D-A6AC1AB45839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8718816A-A64B-4291-BAF0-A55545D8DE29}
+	EndGlobalSection
+EndGlobal
